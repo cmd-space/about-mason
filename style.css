@@ -62,7 +62,9 @@ p {
 }
 
 img {
-	margin-top: 1em;
-	position: absolute;
-	left: 37%;
+	margin: 2em;
+}
+
+.camo {
+	visibility: hidden;
 }
