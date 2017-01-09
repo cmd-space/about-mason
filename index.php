@@ -14,5 +14,9 @@
 		<p>
 			I'll be brainstorming the many different apps I would love to create in order to contribute to our capstone project process. So many problems or 'problems' that need solving, and I can't wait to dig in.
 		</p>
+		<p>
+			I'm thinking about checking out Raja Yoga, since I have trouble focusing on occas... SQUIRREL!
+		</p>
+		<img src="images/rajaYoga.jpg" alt="Raja Yoga Book Cover, written by Swami Vivekananda">
 	</body>
 </html>
