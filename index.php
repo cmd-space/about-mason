@@ -8,6 +8,11 @@
 		<title>Document</title>
 	</head>
 	<body>
-		
+		<p>
+			Lorem ipsum... Just kidding! It's a beautiful day to be stuck inside all day learning about programming and actually 'coding' on the first day of class. Maybe I'll be able to make this page look nice...
+		</p>
+		<p>
+			I'll be brainstorming the many different apps I would love to create in order to contribute to our capstone project process. So many problems or 'problems' that need solving, and I can't wait to dig in.
+		</p>
 	</body>
 </html>
