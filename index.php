@@ -20,11 +20,15 @@
 		<p>
 			I'm thinking about checking out Raja Yoga, since I have trouble focusing on occas... SQUIRREL! <img id="gif" class="na" src="images/giphy%20(1).gif" alt="SQUIRREL!">
 		</p>
+		<p id="poof">Click the meme above to make it go away! Click this paragraph to bring it back!</p>
 		<img src="images/rajaYoga.jpg" alt="Raja Yoga Book Cover, written by Swami Vivekananda">
 		<script>
 			$(document).ready(function() {
 				$("#gif").click(function() {
-					this.("camo");
+						$(this).addClass("camo");
+				});
+				$("#poof").click(function() {
+					$("#gif").removeClass("camo");
 				});
 			});
 		</script>

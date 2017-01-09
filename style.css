@@ -65,6 +65,10 @@ img {
 	margin: 2em;
 }
 
+.rambo {
+	opacity: 100;
+}
+
 .camo {
-	visibility: hidden;
+	opacity: 0;
 }
